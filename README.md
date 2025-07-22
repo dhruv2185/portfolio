@@ -6,7 +6,7 @@ I'm **Dhruv Ghevariya**. I am a passionate software engineer dedicated to crafti
 
 ## 🚀 Live URL
 
-**Website Link:** [https://portfolio-swart-omega-s6i0vsajhk.vercel.app/](https://portfolio-swart-omega-s6i0vsajhk.vercel.app/)
+**Website Link:** [https://dhruv-portfolio-2185.vercel.app/](https://dhruv-portfolio-2185.vercel.app/)
 
 ## 🛠️ Tech Stack
 
